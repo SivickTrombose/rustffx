@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/crates/rustffx-base/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/rustffx-controls/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/rustffx-fxml/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/rustffx-graphics/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/rustffx-media/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/rustffx-web/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/rustffx/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/crates/rustffx-prism/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/demo/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
