@@ -1,7 +1,7 @@
 # RustFFX
 
 ### Biblioteca inspirado no JavaFx, para fins de crição de interface gráficas e jogos.
-#### Totalmente criado do zero e sem vínculo Oracle Corporation ou com a AMD.
+#### Totalmente criado do zero e sem vínculo com Oracle Corporation ou com a AMD.
 
 ---
 
